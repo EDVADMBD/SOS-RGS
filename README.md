@@ -1,5 +1,8 @@
 # SOS-RGS
-Um código de exploração de dados para identificar as cidades que mais receberam doações encaminhadas pela Defesa Civil pode envolver várias etapas, dependendo da fonte e estrutura dos dados disponíveis. Aqui está uma breve descrição de como esse código poderia ser estruturado:
+
+![image](https://github.com/user-attachments/assets/28d46094-a51e-457a-b025-53daba85bd77)
+
+Desenvolvimento de  código de exploração de dados para identificar as cidades que mais receberam doações encaminhadas pela Defesa Civil pode envolver várias etapas, dependendo da fonte e estrutura dos dados disponíveis. Aqui está uma breve descrição de como esse código poderia ser estruturado:
 
 Coleta de Dados: O primeiro passo seria acessar os dados que contêm informações sobre as doações encaminhadas pela Defesa Civil para diferentes cidades. Esses dados podem vir de um banco de dados, um arquivo CSV, uma API, ou qualquer outra fonte relevante.
 
