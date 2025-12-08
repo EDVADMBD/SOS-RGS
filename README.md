@@ -15,3 +15,6 @@ Visualização dos Resultados: Para tornar os resultados mais compreensíveis, o
 Interatividade (Opcional): Se necessário, o código poderia ser projetado para permitir interatividade, como filtragem por período de tempo ou tipo de doação, possibilitando uma exploração mais detalhada dos dados.
 
 Em resumo, o código de exploração de dados para identificar as cidades que mais receberam doações da Defesa Civil envolve desde a coleta inicial dos dados até a análise e visualização dos resultados, com o objetivo de fornecer insights valiosos para tomada de decisões e planejamento estratégico.
+
+Link do projeto: 
+https://github.com/EDVADMBD/SOS-RGS/blob/main/Profissao_Analista_de_dados_M16_2_Exercicio.ipynb
